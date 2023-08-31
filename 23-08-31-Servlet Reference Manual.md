@@ -4,6 +4,8 @@
 
 - https://docs.oracle.com/javaee/5/tutorial/doc/bnafd.html
 - https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaServlets.html
+- api
+  - https://jakarta.ee/specifications/platform/9/apidocs/jakarta/servlet/package-summary 
 
 >As soon as the web began to be used for delivering services, service providers recognized the need for dynamic content. Applets, one of the earliest attempts toward this goal, focused on using the client platform to deliver dynamic user experiences. At the same time, developers also investigated using the server platform for this purpose. Initially, Common Gateway Interface (CGI) scripts were the main technology used to generate dynamic content. Although widely used, CGI scripting technology has a number of shortcomings, including platform dependence and lack of scalability. To address these limitations, Java Servlet technology was created as a portable way to provide dynamic, user-oriented content.
 
